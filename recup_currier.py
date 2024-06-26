@@ -4,7 +4,7 @@ import os
 
 # Informations de connexion à la boîte e-mail Gmail
 EMAIL = 'easy.test.code@gmail.com'
-PASSWORD = 'Rexona76'
+PASSWORD = 'xxxxxxx'
 SERVER = 'imap.gmail.com'
 
 # Se connecter au serveur IMAP de Gmail
